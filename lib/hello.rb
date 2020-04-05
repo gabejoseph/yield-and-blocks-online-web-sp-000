@@ -6,12 +6,6 @@
 #   end
 # end
 
-x = ["Tim", "Tom", "Jim"]
 
-def hello_t(x) do |name|
-  name.start_with?("T")
-    puts "Hi, #{name}"
-  end
-end
 
 
